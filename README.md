@@ -14,6 +14,13 @@ A Pokemon themed memory game where the user must match all the Pokemon pairs to 
 
 https://github.com/saharbueno/Memory-Matching-Madness-Game/assets/69322388/2edab269-2111-47df-b833-aea21cac6fc1
 
+<p align="center">
+  <i>Scroll down to visit my site and play!</i>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/OGogo9UZ5zpKy1OkLc/giphy.gif" alt="Happy">
+</p>
 
 ## Takeaways
 
