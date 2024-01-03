@@ -15,10 +15,6 @@ A Pokemon themed memory game where the user must match all the Pokemon pairs to 
 https://github.com/saharbueno/Memory-Matching-Madness-Game/assets/69322388/2edab269-2111-47df-b833-aea21cac6fc1
 
 
-<i>Scroll down to play the game for yourself!</i>
-
-![Pachirisu](https://github.com/saharbueno/Memory-Matching-Madness-Game/assets/69322388/376e4ea3-106b-4de2-82e3-1f8ee75d3810)
-
 ## Takeaways
 
 The most difficult part of implementing the logic in this game was controlling when the Pokeballs would flip back when the user did not find the correct pair. Something useful that I learned was how to control local storage and save important information in the user's browser. I enjoy coming back to the page every once in a while, playing the game, and seeing my old highscores.
