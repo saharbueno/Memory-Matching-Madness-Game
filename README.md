@@ -10,10 +10,14 @@
 A Pokemon themed memory game where the user must match all the Pokemon pairs to complete the game. There are also three difficulty levels that the user can play through. This game saves highscores to the player's local storage so they can always remember their top scores for each game mode. This was built using HTML, CSS, and Javascript.
 
 ## Demo
-https://github.com/saharbueno/Memory-Matching-Madness-Game/assets/69322388/c22d2cca-4c87-4727-98c1-3298df265728
-<i>Scroll down to play the game for yourself!</i>
-![Pachirisu](https://chipsprites.tumblr.com/image/148079224786)
 
+
+https://github.com/saharbueno/Memory-Matching-Madness-Game/assets/69322388/2edab269-2111-47df-b833-aea21cac6fc1
+
+
+<i>Scroll down to play the game for yourself!</i>
+
+![Pachirisu](https://github.com/saharbueno/Memory-Matching-Madness-Game/assets/69322388/376e4ea3-106b-4de2-82e3-1f8ee75d3810)
 
 ## Takeaways
 
